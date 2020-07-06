@@ -1,0 +1,89 @@
+header h1 {
+    color: white;
+}
+
+nav {
+    width: 100%;
+}
+
+form {
+    margin-top: 20px;
+}
+
+#cityinfo {
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+#five-day-cards {
+    display: inline-block;
+}
+
+#icondiv {
+    margin: 30px;
+}
+
+#uvindex {
+    background-color:#dc3545;
+    font-size: smaller;
+    margin-left: 10px;
+}
+
+#basic-text1 {
+    cursor: pointer;
+}
+
+.input-group-text{
+    background-color: #007bff;
+}
+
+.container {
+    width: 100%;
+}
+
+.col-3 {
+    background-color: #f8f9fa;
+}
+
+.btn-group-vertical {
+    margin-top: 20px;
+}
+
+.btn-group-vertical > button {
+    font-size: smaller;
+}
+
+.weather-info > p {
+    font-size: smaller;
+}
+
+.card {
+    margin-left: 10px;
+}
+
+.card-body > p {
+    font-size: smaller;
+}
+
+.forecast {
+    margin-top: 20px;
+}
+
+.five-day {
+    margin-left: 20px;
+}
+
+/* This is the blue card body for the 5 day forecast */
+.pb-3 {
+    margin-left: 10px;
+    background-color: #007bff;
+    color: white;
+}
+
+.weather-card {
+    display: inline-block;
+}
+
+footer {
+    margin-top: 40px;
+}
