@@ -1,3 +1,6 @@
+body{
+    background-color:#f8f9fa ;
+}
 header h1 {
     color: white;
 }
@@ -73,7 +76,7 @@ form {
     margin-left: 20px;
 }
 
-/* This is the blue card body for the 5 day forecast */
+
 .pb-3 {
     margin-left: 10px;
     background-color: #007bff;
