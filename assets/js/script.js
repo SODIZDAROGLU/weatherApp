@@ -121,6 +121,7 @@ $(function () {
                                 $("#displaycity").append(cardBodyEl);
 
                              
+                              
                                 for (const dayForecast of cityObj.fiveDayForecast) {
                                     fiveDayForecastEl = generateFiveDay(dayForecast);
                                     
