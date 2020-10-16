@@ -93,6 +93,7 @@ $(function () {
 
                                
                                 
+                               
                                 var cityData = {
                                     name: response1.name,
                                     icon: response1.weather[0].icon,
